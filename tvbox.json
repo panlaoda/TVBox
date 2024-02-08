@@ -1,6 +1,6 @@
-{
-  "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
-  "lives": [
+
+  {
+    "lives": [
     {
       "name": "live",
       "type": 0,
@@ -20,3 +20,4 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ]
+  }
