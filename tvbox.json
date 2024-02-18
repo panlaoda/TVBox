@@ -80,16 +80,6 @@
 			"ext": "FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"
 		},
 		{
-			"key": "电影",
-			"name": "电影",
-			"type": 3,
-			"api": "csp_AppSK",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1,
-			"ext": "FbjPcVZY48PN/RIZ5QqOrspkJ4ZHF98MCHVX87i5y01XUNSIsT3IgxCP9qyzByO7aWmK03MmmHYwQmNlCJx9KFpYWNSc3hbeLTlD3SAclaw3AOnn"
-		},
-		{
 			"key": "星奇",
 			"name": "星奇",
 			"type": 3,
@@ -158,15 +148,6 @@
 			"changeable": 1
 		},
 		{
-			"key": "csp_Ysj",
-			"name": "异界动漫",
-			"type": 3,
-			"api": "csp_Ysj",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1
-		},
-		{
 			"key": "csp_Anime1",
 			"name": "日本动漫",
 			"type": 3,
@@ -194,16 +175,6 @@
 			"quickSearch": 0,
 			"filterable": 1,
 			"ext": "https://raw.gitmirror.com/2hacc/TVBox/main/json/Biliych.json"
-		},
-		{
-			"key": "csp_短视频",
-			"name": "短视频",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"ext": "https://raw.gitmirror.com/2hacc/TVBox/main/json/短视频.json"
 		},
 		{
 			"key": "幼儿乐园",
