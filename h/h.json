@@ -30,7 +30,6 @@
     {"key":"csp_xBPQ_香蕉资源","name":"🏆香蕉资源","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.gitmirror.com/panlaoda/TVBox/main/h/xBPQ/香蕉资源.json"},
     {"key":"csp_xBPQ_香蕉超清","name":"🏆香蕉超清","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.gitmirror.com/panlaoda/TVBox/main/h/xBPQ/香蕉超清.json"},
     {"key":"csp_xBPQ_香蕉国产","name":"🏆香蕉国产","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.gitmirror.com/panlaoda/TVBox/main/h/xBPQ/香蕉国产.json"},
-    {"key":"csp_xBPQ_香蕉久久热","name":"🏆香蕉久久热","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.gitmirror.com/panlaoda/TVBox/main/h/xBPQ/香蕉久久热.json"},
     {"key":"csp_xBPQ_香蕉废柴","name":"🏆香蕉废柴","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.gitmirror.com/panlaoda/TVBox/main/h/xBPQ/香蕉废柴.json"},
     {"key":"csp_xBPQ_香蕉搜索","name":"🏆香蕉搜索","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.gitmirror.com/panlaoda/TVBox/main/h/xBPQ/香蕉搜索.json"},
     {"key":"csp_xBPQ_香蕉直播","name":"🏆香蕉直播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.gitmirror.com/panlaoda/TVBox/main/h/xBPQ/香蕉直播.json"},
@@ -184,8 +183,6 @@
     {"name":"解析27","type":0,"url":"https://okjx.cc/?url="}
   ],
   "rules":[
-    // {"name": "量子廣告","hosts": ["vip.lz","hd.lz"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
-    // {"name": "非凡廣告","hosts": ["vip.ffzy","hd.ffzy"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
     {"host":"*","rule":["avss.vip"]},
     {"host":"avss.vip","rule":[".m3u8"]},
     {"host":"*","rule":["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]},
