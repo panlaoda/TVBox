@@ -1,5 +1,5 @@
 {
-	"spider": "https://raw.gitmirror.com/2hacc/TVBox/main/jar/tvbox.txt;md5;056cf130cd8463725c2038c7bc59664f",
+	"spider": "https://raw.gitmirror.com/panlaoda/TVBox/main/jar/tvbox.txt;md5;056cf130cd8463725c2038c7bc59664f",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"name": "live",
@@ -164,7 +164,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://raw.gitmirror.com/2hacc/TVBox/main/json/企鹅直播.json"
+			"ext": "https://raw.gitmirror.com/panlaoda/TVBox/main/json/企鹅直播.json"
 		},
 		{
 			"key": "csp_Biliych",
@@ -174,7 +174,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "https://raw.gitmirror.com/2hacc/TVBox/main/json/Biliych.json"
+			"ext": "https://raw.gitmirror.com/panlaoda/TVBox/main/json/Biliych.json"
 		},
 		{
 			"key": "幼儿乐园",
@@ -184,7 +184,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "https://raw.gitmirror.com/2hacc/TVBox/main/json/幼儿乐园.json"
+			"ext": "https://raw.gitmirror.com/panlaoda/TVBox/main/json/幼儿乐园.json"
 		},
 		{
 			"key": "少儿教育",
@@ -194,7 +194,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "https://raw.gitmirror.com/2hacc/TVBox/main/json/少儿教育.json"
+			"ext": "https://raw.gitmirror.com/panlaoda/TVBox/main/json/少儿教育.json"
 		},
 		{
 			"key": "小学课堂",
@@ -204,7 +204,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "https://raw.gitmirror.com/2hacc/TVBox/main/json/小学课堂.json"
+			"ext": "https://raw.gitmirror.com/panlaoda/TVBox/main/json/小学课堂.json"
 		},
 		{
 			"key": "初中课堂",
@@ -214,7 +214,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "https://raw.gitmirror.com/2hacc/TVBox/main/json/初中课堂.json"
+			"ext": "https://raw.gitmirror.com/panlaoda/TVBox/main/json/初中课堂.json"
 		},
 		{
 			"key": "高中教育",
@@ -224,7 +224,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "https://raw.gitmirror.com/2hacc/TVBox/main/json/高中课堂.json"
+			"ext": "https://raw.gitmirror.com/panlaoda/TVBox/main/json/高中课堂.json"
 		}
 	],
 	"parses": [{
